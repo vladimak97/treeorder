@@ -5,13 +5,6 @@ Description
 A tree is a connected acyclic graph.
 A binary tree is a tree for which each node has a left child, a right child, both, or neither, e.g.
 
-
-    1
-   / \
-  2   3
- / \   \
-4   5   6
-
 There are three common ways to recursively traverse such a tree.
 Pre-order: parent, left subtree, right subtree
 Post-order: left subtree, right subtree, parent
