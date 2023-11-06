@@ -5,6 +5,7 @@ Description
 A tree is a connected acyclic graph.
 A binary tree is a tree for which each node has a left child, a right child, both, or neither, e.g.
 
+
     1
    / \
   2   3
